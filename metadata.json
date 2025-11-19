@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DebtTracker Pro",
+  "description": "A smart debt tracking dashboard with AI-powered receipt splitting using Google Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
